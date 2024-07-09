@@ -33,8 +33,8 @@
 
 using namespace std;
 
-#define SSID "telenet-7D56AC7"
-#define PWD  "rX26prmuBdwr"
+#define SSID "xxxxx"
+#define PWD  "xxxxx"
 
 static EventGroupHandle_t s_wifi_event_group;  
 #define WIFI_CONNECTED_BIT          BIT0
